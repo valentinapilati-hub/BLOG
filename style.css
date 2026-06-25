@@ -64,13 +64,14 @@ nav ul li a:hover {
     color: #3498db;
 }
 
-/* Banner Principal */
+//* Banner Principal */
 .hero {
     background: linear-gradient(135deg, #3498db, #8e44ad);
     color: white;
     text-align: center;
     padding: 60px 20px;
     margin-bottom: 30px;
+}
 }
 
 .hero h2 {
